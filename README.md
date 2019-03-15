@@ -1,7 +1,7 @@
 # Eggers and Spirling database
 
 ## Download
-The compressed database in CSV format (634M) is available here.
+The compressed database in CSV format (634M) is available [here](https://www.dropbox.com/s/keo1a6ekqqxg8m0/csv_archive_20150607.zip?dl=0).
 
 ## Overview
 The dataset consists of roll call votes, election returns, and speeches linked to MPs over the period 1802-2010. The speeches cover the period 1832-1918; the votes cover the period 1836-1910; the elections cover the period 1802-2010 (although they are not linked consistently to MPs after 2001 yet).
@@ -50,5 +50,5 @@ Corrections/improvements are welcome. Best is if you can provide us with a new v
 
 Thank you!
 
-Andy Eggers and Arthur Spirling
+[Andy Eggers](http://andy.egge.rs/) and [Arthur Spirling](http://www.nyu.edu/projects/spirling/)
 

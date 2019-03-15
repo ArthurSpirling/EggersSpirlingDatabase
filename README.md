@@ -7,7 +7,25 @@ The compressed database in CSV format (634M) is available [here](https://www.dro
 The dataset consists of roll call votes, election returns, and speeches linked to MPs over the period 1802-2010. The speeches cover the period 1832-1918; the votes cover the period 1836-1910; the elections cover the period 1802-2010 (although they are not linked consistently to MPs after 2001 yet).
 
 ## Citation
-Users of the dataset should cite the Eggers and Spirling LSQ article "Electoral Security as a Determinant of Legislator Activity, 1832–1918: New Data and Methods for Analyzing British Political Development". They should also see that article for details on how the data was assembled.
+Users of the dataset should cite the Eggers and Spirling LSQ article:
+```
+Eggers, Andrew C., and Arthur Spirling. "Electoral security as a determinant of legislator activity, 1832–1918: New data and methods for analyzing British political development." Legislative Studies Quarterly 39.4 (2014): 593-620.
+```
+They should also see that article for details on how the data was assembled.
+
+BibTex: 
+```
+@article{eggers2014electoral,
+  title={Electoral security as a determinant of legislator activity, 1832--1918: New data and methods for analyzing british political development},
+  author={Eggers, Andrew C and Spirling, Arthur},
+  journal={Legislative Studies Quarterly},
+  volume={39},
+  number={4},
+  pages={593--620},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+```
 
 ## Data structure
 MPs are identified in the file mps.csv. The unique key is the first column, labeled "member_id". Other files (detailing the votes, electoral records, and speeches of MPs) refer to member_id when they identify an MP.

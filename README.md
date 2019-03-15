@@ -17,7 +17,8 @@ They should also see that article for details on how the data was assembled.
 BibTex: 
 ```
 @article{eggers2014electoral,
-  title={Electoral security as a determinant of legislator activity, 1832--1918: New data and methods for analyzing british political development},
+  title={Electoral security as a determinant of legislator activity, 1832--1918: 
+  New data and methods for analyzing british political development},
   author={Eggers, Andrew C and Spirling, Arthur},
   journal={Legislative Studies Quarterly},
   volume={39},

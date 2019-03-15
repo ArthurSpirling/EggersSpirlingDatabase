@@ -1,4 +1,4 @@
-# Eggers and Spirling database
+# Eggers and Spirling British Political Development database, 1802--2010
 
 ## Download
 The compressed database in CSV format (634M) is available [here](https://www.dropbox.com/s/keo1a6ekqqxg8m0/csv_archive_20150607.zip?dl=0).

@@ -8,9 +8,10 @@ The dataset consists of roll call votes, election returns, and speeches linked t
 
 ## Citation
 Users of the dataset should cite the Eggers and Spirling LSQ article:
-```
-Eggers, Andrew C., and Arthur Spirling. "Electoral security as a determinant of legislator activity, 1832–1918: New data and methods for analyzing British political development." Legislative Studies Quarterly 39.4 (2014): 593-620.
-```
+
+
+> Eggers, Andrew C., and Arthur Spirling. "Electoral security as a determinant of legislator activity, 1832–1918: New data and methods for analyzing British political development." Legislative Studies Quarterly 39.4 (2014): 593-620.
+
 They should also see that article for details on how the data was assembled.
 
 BibTex: 

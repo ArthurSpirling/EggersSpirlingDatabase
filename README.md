@@ -1,7 +1,7 @@
 # Eggers and Spirling British Political Development database, 1802--2010
 
 ## Download
-The compressed database in CSV format (634M) is available [here](https://www.dropbox.com/s/keo1a6ekqqxg8m0/csv_archive_20150607.zip?dl=0).
+The compressed database in CSV format (634M) is available [here](http://andy.egge.rs/data/csv_archive_20150612.zip) (last updated in June 2015).
 
 ## Overview
 The dataset consists of roll call votes, election returns, and speeches linked to MPs over the period 1802-2010. The speeches cover the period 1832-1918; the votes cover the period 1836-1910; the elections cover the period 1802-2010 (although they are not linked consistently to MPs after 2001 yet).

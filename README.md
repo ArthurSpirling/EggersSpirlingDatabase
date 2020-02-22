@@ -53,7 +53,8 @@ In addition, we provide the raw votes and details on every division in two CSV f
 
 ```
 @article{eggers2016party,
-  title={Party cohesion in Westminster systems: inducements, replacement and discipline in the house of commons, 1836--1910},
+  title={Party cohesion in Westminster systems: inducements, 
+  replacement and discipline in the house of commons, 1836--1910},
   author={Eggers, Andrew C and Spirling, Arthur},
   journal={British Journal of Political Science},
   volume={46},

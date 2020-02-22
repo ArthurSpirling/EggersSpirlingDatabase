@@ -48,6 +48,23 @@ Division votes (i.e. roll call votes) for a given parliament are described in tw
 - In **votes_parliament_X.csv**, each row describes the voting record of one MP in the divisions that arose in a given parliament X. The mp is identified by a column labeled "mp.id" (which corresponds to the "member_id" column in mps.csv); we also provide some of the information from the mps.csv table along with a record of the MP's party at the start (90 days after the election) and end (30 days before the next election) of the parliament; this record is based entirely on the election records reported in election_returns.csv. There is then a column for each division; if the column is labeled "d4449", that means that you can recover the content of the division by looking up the division with id of 4449 in divisions_parliament_X.csv.
 In addition, we provide the raw votes and details on every division in two CSV files found in raw_votes_and_divisions. Note that these include divisions we imported from Valerie Cromwell's datafiles and from Aydelotte's dataset; these divisions are duplicated in the 1836-1910 data we got from the Division Lists (digitized by the History of Parliament Trust).
 
+- In **cohesion.csv** [here](https://www.dropbox.com/sh/cftvjx57jhfue83/AACn88LhvXXCfKV6iLCcZZK-a?dl=0), we provide (for each MP/for each parliament) a measure of their "cohesion".  This is essentially how often (as a proportion of all divisions, 0 to 1) they voted the same way as their party whip.  This is not part of the original Eggers and Spirling Dataset, but rather something derived from it and that appeared in the following paper:
+
+
+```
+@article{eggers2016party,
+  title={Party cohesion in Westminster systems: inducements, replacement and discipline in the house of commons, 1836--1910},
+  author={Eggers, Andrew C and Spirling, Arthur},
+  journal={British Journal of Political Science},
+  volume={46},
+  number={3},
+  pages={567--589},
+  year={2016},
+  publisher={Cambridge University Press}
+}
+```
+
+
 
 ### Speeches
 Speeches for a given parliament are described in two sheets found in speeches_by_parliament.

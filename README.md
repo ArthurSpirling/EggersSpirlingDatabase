@@ -88,5 +88,5 @@ Corrections/improvements are welcome. Best is if you can provide us with a new v
 
 Thank you!
 
-[Andy Eggers](http://andy.egge.rs/) and [Arthur Spirling](http://www.nyu.edu/projects/spirling/)
+[Andy Eggers](http://andy.egge.rs/) and [Arthur Spirling](http://www.arthurspirling.org)
 
